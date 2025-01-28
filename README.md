@@ -1,11 +1,24 @@
+About perl-params-util-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-params-util-feedstock/blob/main/LICENSE.txt)
+
+
 About perl-params-util
-======================
+----------------------
 
 Home: https://metacpan.org/release/Params-Util
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-params-util-feedstock/blob/main/LICENSE.txt)
+Summary: Simple, compact and correct param-checking functions
+
+About perl-params-util
+----------------------
+
+Home: https://metacpan.org/release/Params-Util
+
+Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
 Summary: Simple, compact and correct param-checking functions
 
@@ -121,7 +134,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
@@ -169,6 +182,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/perl-packagers](https://github.com/conda-forge/perl-packagers/)
+* [@conda-forge/perl-packagers](https://github.com/orgs/conda-forge/teams/perl-packagers/)
+* [@dslarm](https://github.com/dslarm/)
 * [@xileF1337](https://github.com/xileF1337/)
 
