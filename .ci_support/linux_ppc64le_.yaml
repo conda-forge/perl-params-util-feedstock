@@ -17,4 +17,4 @@ docker_image:
 perl:
 - 5.32.1
 target_platform:
-- linux-64
+- linux-ppc64le

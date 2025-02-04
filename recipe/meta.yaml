@@ -12,7 +12,7 @@ source:
 
 build:
   skip: true   # [win]
-  number: 0
+  number: 1
   run_exports:
     weak:
       - {{ name }} ={{ version }}
@@ -21,6 +21,7 @@ requirements:
   build:
     - make
     - {{ compiler('c') }}
+    - {{ stdlib('c') }}
   host:
     - perl
     - perl-test-leaktrace
